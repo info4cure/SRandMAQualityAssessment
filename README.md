@@ -1,5 +1,5 @@
 # SRandMAQualityAssessment
-Files and scripts to reproduce data analysis for "Quality assessment of pharmacological and non-pharmacological interventions for the management of psoriasis: a systematic review of reviews and network meta-analysis" PROSPERO project. Results have been included as text, tables or figures on the original article:
+Files and scripts to reproduce data analysis for "Quality assessment of pharmacological and non-pharmacological interventions for the management of psoriasis: a systematic review of reviews and network meta-analysis" PROSPERO (42016041611) project. Results have been included as text, tables or figures on the original article:
 
 "Systematic reviews and meta-analyses on psoriasis: role of funding sources, conflict of interest, and bibliometric indices as predictors of methodological quality"
 
